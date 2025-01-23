@@ -60,4 +60,4 @@ $ python dijkstra_visualization.py
 
 ---
 
-作者 GitHub: [@tomiokario](https://github.com/tomiokario)
+作者 GitHub: [@tomiokario](https://github.com/tomiokario) at METAPLUS
